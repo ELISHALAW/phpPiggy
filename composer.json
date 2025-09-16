@@ -1,0 +1,12 @@
+{
+    "name": "lawseongchun/php-piggy",
+    "description": "A PHP applicaiton for tracking expenses",
+    "type": "project",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Framework\\": "src/Framework",
+            "App\\":"src/App"
+        }
+    }
+}
